@@ -1,0 +1,16 @@
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:95:19:HAL_RCCEx_PeriphCLKConfig	40	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:391:6:HAL_RCCEx_GetPeriphCLKConfig	24	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:496:10:HAL_RCCEx_GetPeriphCLKFreq	24	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1102:6:HAL_RCCEx_EnableLSECSS	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1112:6:HAL_RCCEx_DisableLSECSS	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1125:6:HAL_RCCEx_EnableLSCO	16	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1138:6:HAL_RCCEx_DisableLSCO	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1150:6:HAL_RCCEx_HSESetTrimming	16	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1162:10:HAL_RCCEx_HSEGetTrimming	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1177:6:HAL_RCCEx_LSESetTrimming	16	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1189:10:HAL_RCCEx_LSEGetTrimming	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1255:6:HAL_RCCEx_EnableRadioBBClock	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1264:6:HAL_RCCEx_DisableRadioBBClock	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1273:6:HAL_RCCEx_EnableRequestUponRadioWakeUpEvent	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1282:6:HAL_RCCEx_DisableRequestUponRadioWakeUpEvent	4	static
+../Drivers/STM32WBAxx_HAL_Driver/Src/stm32wbaxx_hal_rcc_ex.c:1295:10:HAL_RCCEx_GetRadioBusClockReadiness	4	static
